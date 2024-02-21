@@ -1,6 +1,6 @@
 
 <div>
-<p align = center ><img src="[https://imgur.com/a/wyiI1LX.png](https://github.com/kiwayu/kiwayu/blob/main/banner.png)"> </p>
+<p align = center ><img src="https://github.com/kiwayu/kiwayu/blob/main/banner.png"> </p>
 <h2> / about me /</h2>
   
 - ⭐ currently working on **web-development**
