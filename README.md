@@ -1,6 +1,6 @@
 
 <div>
-<p align = center ><img src="https://imgur.com/a/wyiI1LX"> </p>
+<p align = center ><img src="https://imgur.com/a/wyiI1LX.png"> </p>
 <h2> / about me /</h2>
   
 - ⭐ currently working on **web-development**
