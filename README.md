@@ -1,7 +1,6 @@
-<p align = center ><img src="https://imgur.com/a/wyiI1LX" width="35"> </p>
 
 <div>
-
+<p align = center ><img src="https://imgur.com/a/wyiI1LX"> </p>
 <h2> / about me /</h2>
   
 - ⭐ currently working on **web-development**
