@@ -1,11 +1,12 @@
 
 <div>
 <p align = center ><img src="https://github.com/kiwayu/kiwayu/blob/main/banner.png"> </p>
-<h2> / About me /</h2>
+<h2> / About Me /</h2>
   
-- ⭐ Currently working on **web-development**
+- ⭐ Aspiring full-stack developer
 - 🌿 Mostly working on **private repositories**
-- 👾 a computer science student
+- 👾 Computer science student
+- 💹 Marketing & Creative Manager
   
 <h2> / Current Skills / </h2>
   
