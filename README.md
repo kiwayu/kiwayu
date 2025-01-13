@@ -20,6 +20,7 @@
   
 - <h4> Currently Focussing On </h4>
   <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
+  <img src = "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt = "azure" />
   <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt = "postgres" />
   
 - <h4> Frameworks & Libraries </h4>
