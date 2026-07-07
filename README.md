@@ -30,7 +30,7 @@ Final-year BSc (Hons) Computing & IT — on track for First-Class Honours.
 | [**BookBrain**](https://github.com/kiwayu/book-app) | React Native · TypeScript · Expo · SQLite | Offline-first personal library app for iOS, Android and web from one codebase — collections, progress tracking and multi-criteria search, built with Zustand, React Query and NativeWind. |
 | [**NudibranchID.io**](https://github.com/kiwayu/NudibranchID.io) | Python | Image-comparison tool to help identify nudibranch species against a reference dataset. |
 | **Dive Log** 🔒 | Go · PostgreSQL · React Native · PowerSync · AWS | *In progress* — commercial, offline-first dive log for iOS, Android and web that keeps working on a boat with no signal. Containerised AWS deployment planned. |
-| **AdBudget Copilot** 🔒 | Python · FastAPI · Anthropic API · React | GenAI tool that turns campaign CSVs into plain-English budget-reallocation recommendations, with a React dashboard for scenario comparison. |
+| **AdBudget Copilot** 🔒 | Python · FastAPI · React | Analytics tool that turns campaign CSVs into plain-English budget-reallocation recommendations, with a React dashboard for scenario comparison. |
 
 ## 🛠️ Tech Stack
 
@@ -81,4 +81,3 @@ Final-year BSc (Hons) Computing & IT — on track for First-Class Honours.
 - 🌊 Shipping the **Dive Log** app — offline-first sync with PowerSync, Go backend on AWS
 - 🏗️ Data modelling and warehouse architecture with dbt and Airflow
 - ☸️ Working towards Kubernetes and Terraform proficiency
-- 🤖 LLM-powered tooling and AI integration
