@@ -34,7 +34,7 @@ jobs:
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
           plugin_languages_limit: 8
-          plugin_languages_details: percentage, lines
+          plugin_languages_details: lines, bytes-size
           plugin_languages_ignored: html, css
 
           plugin_habits: yes
