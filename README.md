@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Banner" />
+<img src="sharks.png" alt="Banner" />
 
 # Hi, I'm Henry 👋
 
