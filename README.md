@@ -2,7 +2,7 @@
 
 <img src="sharks.png" alt="Banner" />
 
-# Hi, I'm Henry 👋
+# Hi, I'm Henry
 
 **Software Engineer · Python · Go · TypeScript**
 
@@ -13,7 +13,7 @@ Final-year BSc (Hons) Computing & IT — on track for First-Class Honours.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 Final-year Computing & IT student (Data Structures & Algorithms, Machine Learning, OOP, Databases, Software Engineering, Cloud Computing)
 - 💼 Seven years in commercial roles — database administration, analytics and marketing — before moving into software engineering
