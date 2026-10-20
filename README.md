@@ -9,6 +9,8 @@
 Building containerised, cloud-native services and data pipelines.
 Final-year BSc (Hons) Computing & IT, on track for First-Class Honours.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-collister-094787326/)
+
 </div>
 
 ---
