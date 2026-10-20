@@ -7,7 +7,7 @@
 **Software Engineer · Python · Go · TypeScript**
 
 Building containerised, cloud-native services and data pipelines.
-Final-year BSc (Hons) Computing & IT — on track for First-Class Honours.
+Final-year BSc (Hons) Computing & IT, on track for First-Class Honours.
 
 </div>
 
@@ -16,20 +16,21 @@ Final-year BSc (Hons) Computing & IT — on track for First-Class Honours.
 ## About Me
 
 - 🎓 Final-year Computing & IT student (Data Structures & Algorithms, Machine Learning, OOP, Databases, Software Engineering, Cloud Computing)
-- 💼 Seven years in commercial roles — database administration, analytics and marketing — before moving into software engineering
+- 💼 Seven years in commercial roles (database administration, analytics and marketing) before moving into software engineering
 - 🔧 Focused on backend services in **Go** and **Python**, data engineering, and cross-platform apps with **React Native**
 - 📚 Currently learning **Kubernetes** and **Terraform**
-- 🌿 Some of my work lives in **private repositories** — highlights below
+- 🌿 Some of my work lives in **private repositories**. Highlights below.
 
 ## 🚀 Featured Projects
 
 | Project | Stack | What it is |
 |---------|-------|------------|
+| [**Audlet**](https://github.com/kiwayu/Audlet) | C# · WPF · .NET 9 | Desktop audiobook player for Windows with a frosted-glass interface: chapters, bookmarks, sleep timer, speed and EQ, online cover search, media keys and a tray mode. Installer and site at [audlet.pages.dev](https://audlet.pages.dev/). |
 | [**Study Session**](https://github.com/kiwayu/study-app) | Go · PostgreSQL · OAuth2 · Docker | Multi-user Pomodoro & task manager: Google/GitHub OAuth2 sign-in, JWT with refresh-token rotation, rate limiting, CSRF protection, layered handler/middleware/repository architecture. Also ships as a WebView2 desktop app. |
 | [**E-Commerce Analytics Pipeline**](https://github.com/kiwayu/e-commerce-analytics-pipeline) | Python · Airflow · dbt · PySpark | Warehouse pipeline landing a public e-commerce dataset in PostgreSQL via Airflow DAGs, modelled through dbt staging/intermediate/mart layers, validated with Great Expectations. One Docker Compose command to run. |
-| [**BookBrain**](https://github.com/kiwayu/book-app) | React Native · TypeScript · Expo · SQLite | Offline-first personal library app for iOS, Android and web from one codebase — collections, progress tracking and multi-criteria search, built with Zustand, React Query and NativeWind. |
-| [**NudibranchID.io**](https://github.com/kiwayu/NudibranchID.io) | Python | Image-comparison tool to help identify nudibranch species against a reference dataset. |
-| **Dive Log** 🔒 | Go · PostgreSQL · React Native · PowerSync · AWS | *In progress* — commercial, offline-first dive log for iOS, Android and web that keeps working on a boat with no signal. Containerised AWS deployment planned. |
+| [**GlyphQ**](https://github.com/kiwayu/GlyphQ) | React Native · TypeScript · Expo · SQLite | Offline-first personal library app for iOS, Android and web from one codebase: collections, progress tracking, an EPUB reader with speed reading, and multi-criteria search. Built with Zustand, React Query and NativeWind. |
+| [**NudiCodex**](https://github.com/kiwayu/NudiCodex) | React · TypeScript · Vite · Supabase | A Pokédex for nudibranchs and sea slugs: browse 150 species, log sightings by dive region, unlock achievements, and sync your collection with an optional account. |
+| **Dive Log** 🔒 | Go · PostgreSQL · React Native · PowerSync · AWS | *In progress.* Commercial, offline-first dive log for iOS, Android and web that keeps working on a boat with no signal. Containerised AWS deployment planned. |
 | **AdBudget Copilot** 🔒 | Python · FastAPI · React | Analytics tool that turns campaign CSVs into plain-English budget-reallocation recommendations, with a React dashboard for scenario comparison. |
 
 ## 🛠️ Tech Stack
@@ -39,6 +40,7 @@ Final-year BSc (Hons) Computing & IT — on track for First-Class Honours.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -78,6 +80,7 @@ Final-year BSc (Hons) Computing & IT — on track for First-Class Honours.
 
 ## 🎯 Current Focus
 
-- 🌊 Shipping the **Dive Log** app — offline-first sync with PowerSync, Go backend on AWS
+- 🎧 Polishing **Audlet** and shipping its next release
+- 🌊 Shipping the **Dive Log** app: offline-first sync with PowerSync, Go backend on AWS
 - 🏗️ Data modelling and warehouse architecture with dbt and Airflow
 - ☸️ Working towards Kubernetes and Terraform proficiency
